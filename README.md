@@ -13,7 +13,7 @@
 * [x] [Projeto — Calculadora - Parte 2.](https://github.com/Devsgeeknerd/pro-cal-par-2-com-agr-car-log-ori-obj-com-bas)
 * [x] [Projeto — Calculadora - Parte 3.](https://github.com/Devsgeeknerd/pro-cal-par-3-com-agr-car-log-ori-obj-com-bas)
 * [x] [Projeto — Calculadora - Parte 4.](https://github.com/Devsgeeknerd/pro-cal-par-4-com-agr-car-log-ori-obj-com-bas)
-* [ ] [Projeto — Calculadora - Parte 5.](https://github.com/Devsgeeknerd/pro-cal-par-5-com-agr-car-log-ori-obj-com-bas) &#128679;
+* [x] [Projeto — Calculadora - Parte 5.](https://github.com/Devsgeeknerd/pro-cal-par-5-com-agr-car-log-ori-obj-com-bas)
 
 <!-- Informações -->
 ## &#8505; Informações
