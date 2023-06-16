@@ -9,7 +9,7 @@
 * [ ] [Verificando a Composição.](https://github.com/Devsgeeknerd/cla-ver-com-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Verificando a Agregação.](https://github.com/Devsgeeknerd/cla-ver-agr-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Verificando a Cardinalidade de Relações Entre Objetos.](https://github.com/Devsgeeknerd/cla-ver-car-rel-ent-obj-com-agr-car-log-ori-obj-com-bas) &#128679;
-* [ ] [Projeto — Calculadora - Parte 1.](https://github.com/Devsgeeknerd/pro-cal-par-1-com-agr-car-log-ori-obj-com-bas) &#128679;
+* [x] [Projeto — Calculadora - Parte 1.](https://github.com/Devsgeeknerd/pro-cal-par-1-com-agr-car-log-ori-obj-com-bas)
 * [ ] [Projeto — Calculadora - Parte 2.](https://github.com/Devsgeeknerd/pro-cal-par-2-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Projeto — Calculadora - Parte 3.](https://github.com/Devsgeeknerd/pro-cal-par-3-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Projeto — Calculadora - Parte 4.](https://github.com/Devsgeeknerd/pro-cal-par-4-com-agr-car-log-ori-obj-com-bas) &#128679;
