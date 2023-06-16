@@ -3,7 +3,7 @@
 
 ***Conteúdo do Módulo:***
 
-* [ ] [Introdução.](https://github.com/Devsgeeknerd/cla-int-com-agr-car-log-ori-obj-com-bas) &#128679;
+* [x] [Introdução.](https://github.com/Devsgeeknerd/cla-int-com-agr-car-log-ori-obj-com-bas)
 * [ ] [Composição e Agregação.](https://github.com/Devsgeeknerd/cla-com-agr-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Cardinalidade de Relações Entre Objetos.](https://github.com/Devsgeeknerd/cla-car-rel-ent-obj-com-agr-car-log-ori-obj-com-bas) &#128679;
 * [ ] [Verificando a Composição.](https://github.com/Devsgeeknerd/cla-ver-com-com-agr-car-log-ori-obj-com-bas) &#128679;
